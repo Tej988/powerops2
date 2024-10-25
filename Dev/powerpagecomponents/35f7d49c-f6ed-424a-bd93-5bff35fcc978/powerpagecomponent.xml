@@ -1,0 +1,25 @@
+<powerpagecomponent powerpagecomponentid="35f7d49c-f6ed-424a-bd93-5bff35fcc978">
+  <content>{"copy":"&lt;div class=\"row sectionBlockLayout\" style=\"display: flex; flex-wrap: wrap; min-height: 50px; background: var(--portalThemeColor2);\"&gt;&lt;/div&gt;\r\n&lt;div class=\"row sectionBlockLayout\" style=\"display: flex; flex-wrap: wrap; min-height: 50px; background: var(--portalThemeColor6);\"&gt;&lt;/div&gt;\r\n&lt;div class=\"row sectionBlockLayout\" style=\"display: flex; flex-wrap: wrap; text-align: left; min-height: 374px;\"&gt;\r\n    &lt;div data-component-theme=\"portalThemeColor7\" class=\"container\" style=\"padding: 0px; display: flex; flex-wrap: wrap;\"&gt;\r\n        &lt;div class=\"col-lg-12 columnBlockLayout\" style=\"flex-grow: 1; display: flex; flex-direction: column; min-width: 300px; padding: 16px;\"&gt;&lt;img src=\"/Cat-PC.png\" alt=\"\" name=\"Cat-PC.png\" style=\"width: 200px; height: 161px; margin-left: auto; margin-right: auto;\"&gt;\r\n            &lt;h2 style=\"text-align: center;\"&gt;You don’t have access to this&lt;/h2&gt;\r\n            &lt;p style=\"text-align: center;\"&gt;Check your credentials or ask your admin to request access&lt;/p&gt;\r\n        &lt;/div&gt;\r\n    &lt;/div&gt;\r\n&lt;/div&gt;\r\n&lt;div class=\"row sectionBlockLayout\" style=\"display: flex; flex-wrap: wrap; min-height: 315px; background: var(--portalThemeColor1);\"&gt;&lt;/div&gt;","enablerating":false,"enabletracking":false,"excludefromsearch":true,"feedbackpolicy":756150000,"hiddenfromsitemap":true,"isroot":false,"pagetemplateid":"60b77ab0-8d49-4cd8-af44-ffb1044134db","parentpageid":"b5d3fa05-9ba5-408c-bde0-b44bb9b3bf09","partialurl":"access-denied","publishingstateid":"72f10c63-434b-4cf8-99d7-c34d3355f486","rootwebpageid":"ea90e545-aaef-4dd4-b66d-b0028facd684","sharedpageconfiguration":false}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Access Denied</name>
+  <powerpagecomponenttype>2</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>7bc85069-4a55-4be9-be3c-12fcdec3f919</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>3a4ac401-645c-40e8-aaae-128b995df205</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <searchcontent>&lt;div class="row sectionBlockLayout" style="display: flex; flex-wrap: wrap; min-height: 50px; background: var(--portalThemeColor2);"&gt;&lt;/div&gt;
+&lt;div class="row sectionBlockLayout" style="display: flex; flex-wrap: wrap; min-height: 50px; background: var(--portalThemeColor6);"&gt;&lt;/div&gt;
+&lt;div class="row sectionBlockLayout" style="display: flex; flex-wrap: wrap; text-align: left; min-height: 374px;"&gt;
+    &lt;div data-component-theme="portalThemeColor7" class="container" style="padding: 0px; display: flex; flex-wrap: wrap;"&gt;
+        &lt;div class="col-lg-12 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 300px; padding: 16px;"&gt;&lt;img src="/Cat-PC.png" alt="" name="Cat-PC.png" style="width: 200px; height: 161px; margin-left: auto; margin-right: auto;"&gt;
+            &lt;h2 style="text-align: center;"&gt;You don’t have access to this&lt;/h2&gt;
+            &lt;p style="text-align: center;"&gt;Check your credentials or ask your admin to request access&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row sectionBlockLayout" style="display: flex; flex-wrap: wrap; min-height: 315px; background: var(--portalThemeColor1);"&gt;&lt;/div&gt;Access Denied</searchcontent>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

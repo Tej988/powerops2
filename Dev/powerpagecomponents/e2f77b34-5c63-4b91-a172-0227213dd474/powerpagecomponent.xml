@@ -1,0 +1,14 @@
+<powerpagecomponent powerpagecomponentid="e2f77b34-5c63-4b91-a172-0227213dd474">
+  <content>{"display_name":"Login/ACS/Heading","type":756150000,"value":"Sign in to Starter Portal"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Login/ACS/Heading</name>
+  <powerpagecomponenttype>7</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>130c125c-e9f8-480c-859c-a380ac6fc999</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>3cadf587-0ea8-47a3-83d2-cca838bcd368</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

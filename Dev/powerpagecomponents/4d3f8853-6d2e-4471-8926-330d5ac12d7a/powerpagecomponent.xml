@@ -1,0 +1,10 @@
+<powerpagecomponent powerpagecomponentid="4d3f8853-6d2e-4471-8926-330d5ac12d7a">
+  <iscustomizable>1</iscustomizable>
+  <name>Authentication/OpenAuth/Twitter/ConsumerSecret</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>130c125c-e9f8-480c-859c-a380ac6fc999</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

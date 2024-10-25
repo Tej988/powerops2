@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="e55d30af-5283-480c-b1d1-59a43327b1b6">
+  <content>{"entityname":"adx_webpage","isdefault":false,"rewriteurl":"~/Pages/AccessDenied.aspx","type":756150000,"usewebsiteheaderandfooter":true}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Access Denied</name>
+  <powerpagecomponenttype>6</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>130c125c-e9f8-480c-859c-a380ac6fc999</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>
