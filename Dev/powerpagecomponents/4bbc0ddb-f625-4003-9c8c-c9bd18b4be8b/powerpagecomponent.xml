@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="4bbc0ddb-f625-4003-9c8c-c9bd18b4be8b">
+  <content>{"value":"{\"status\":\"disable\"}"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>PWAFeature</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>130c125c-e9f8-480c-859c-a380ac6fc999</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

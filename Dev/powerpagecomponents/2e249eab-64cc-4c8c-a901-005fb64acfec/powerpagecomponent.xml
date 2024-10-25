@@ -1,0 +1,14 @@
+<powerpagecomponent powerpagecomponentid="2e249eab-64cc-4c8c-a901-005fb64acfec">
+  <content>{"display_name":"Search/Facet/Sort Order/Views","type":756150000,"value":"View Count"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Search/Facet/SortOrder/Views</name>
+  <powerpagecomponenttype>7</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>130c125c-e9f8-480c-859c-a380ac6fc999</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>3cadf587-0ea8-47a3-83d2-cca838bcd368</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

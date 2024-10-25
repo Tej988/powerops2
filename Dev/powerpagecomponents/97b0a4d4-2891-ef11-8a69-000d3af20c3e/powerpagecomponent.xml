@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="97b0a4d4-2891-ef11-8a69-000d3af20c3e">
+  <content>{"botschemaname":"cr313_ee74b43c-8b51-4d96-8e3b-bd2b24d5a4c2","configjson":"{\"skillConfigViewName\":\"Demo2 bot Answers\"}"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Bot Consumer</name>
+  <powerpagecomponenttype>27</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>7bc85069-4a55-4be9-be3c-12fcdec3f919</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

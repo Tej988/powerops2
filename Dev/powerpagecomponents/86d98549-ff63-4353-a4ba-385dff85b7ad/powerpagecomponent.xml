@@ -1,0 +1,35 @@
+<powerpagecomponent powerpagecomponentid="86d98549-ff63-4353-a4ba-385dff85b7ad">
+  <content>{"copy":"&lt;div class=\"row sectionBlockLayout\" data-component-theme=\"portalThemeColor6\" style=\"display: flex; flex-wrap: wrap; height: 15px; min-height: 15px;\"&gt;\r\n&lt;/div&gt;\r\n&lt;div class=\"row sectionBlockLayout\" style=\"display: flex; flex-wrap: wrap; text-align: left; min-height: auto;\"&gt;\r\n    &lt;div class=\"container\" style=\"padding: 0px; display: flex; flex-wrap: wrap;\"&gt;\r\n        &lt;div class=\"col-lg-12 columnBlockLayout\" style=\"flex-grow: 1; display: flex; flex-direction: column; min-width: 300px;\"&gt;\r\n            &lt;h2&gt;Subpage one&lt;/h2&gt;\r\n            &lt;p&gt;This page can be customized by adding new sections and components.&lt;/p&gt;\r\n        &lt;/div&gt;\r\n    &lt;/div&gt;\r\n&lt;/div&gt;\r\n&lt;div class=\"row sectionBlockLayout\" style=\"display: flex; flex-wrap: wrap; text-align: left; min-height: auto;\"&gt;\r\n    &lt;div class=\"container\" style=\"padding: 0px; display: flex; flex-wrap: wrap;\"&gt;\r\n        &lt;div class=\"col-lg-6 columnBlockLayout\" style=\"flex-grow: 1; display: flex; flex-direction: column; min-width: 300px;\"&gt;&lt;img src=\"/Geometric-2.png\" name=\"Geometric-2.png\" alt=\"\" style=\"max-width: 100%; width: 132%; height: 336px; margin-left: auto; margin-right: auto;\"&gt;&lt;/div&gt;\r\n        &lt;div class=\"col-lg-6 columnBlockLayout\" style=\"flex-grow: 1; display: flex; flex-direction: column; min-width: 300px;\"&gt;\r\n            &lt;h2&gt;Product or service one&lt;/h2&gt;\r\n            &lt;p&gt;This section could provide testimonials, links to training or documentation, or introduce other actions your audience may want to take.&lt;/p&gt;\r\n        &lt;/div&gt;\r\n    &lt;/div&gt;\r\n&lt;/div&gt;\r\n&lt;div class=\"row sectionBlockLayout\" data-component-theme=\"portalThemeColor2\" style=\"display: flex; flex-wrap: wrap; min-height: 28px;\"&gt;&lt;/div&gt;\r\n&lt;div class=\"row sectionBlockLayout\" data-component-theme=\"portalThemeColor6\" style=\"display: flex; flex-wrap: wrap; min-height: 52px;\"&gt;&lt;/div&gt;","displayorder":1,"enablerating":false,"enabletracking":false,"excludefromsearch":false,"feedbackpolicy":756150000,"hiddenfromsitemap":false,"isroot":false,"pagetemplateid":"dbd0d209-85f0-483b-9224-491831180c65","parentpageid":"fc66cbb9-0045-4001-85a0-b31771ce746c","partialurl":"subpage-1","publishingstateid":"d13a738c-7e0f-4cd7-b2de-1893953191b6","rootwebpageid":"6e3acd32-c355-4991-abc8-6ccdec228088","sharedpageconfiguration":false,"summary":"&lt;p&gt;You can include a description of your child page here.&lt;/p&gt;","title":"Subpage 1"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Subpage 1</name>
+  <powerpagecomponenttype>2</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>130c125c-e9f8-480c-859c-a380ac6fc999</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>3cadf587-0ea8-47a3-83d2-cca838bcd368</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <searchcontent>Subpage 1&lt;div class="row sectionBlockLayout" data-component-theme="portalThemeColor6" style="display: flex; flex-wrap: wrap; height: 15px; min-height: 15px;"&gt;
+&lt;/div&gt;
+&lt;div class="row sectionBlockLayout" style="display: flex; flex-wrap: wrap; text-align: left; min-height: auto;"&gt;
+    &lt;div class="container" style="padding: 0px; display: flex; flex-wrap: wrap;"&gt;
+        &lt;div class="col-lg-12 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 300px;"&gt;
+            &lt;h2&gt;Subpage one&lt;/h2&gt;
+            &lt;p&gt;This page can be customized by adding new sections and components.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row sectionBlockLayout" style="display: flex; flex-wrap: wrap; text-align: left; min-height: auto;"&gt;
+    &lt;div class="container" style="padding: 0px; display: flex; flex-wrap: wrap;"&gt;
+        &lt;div class="col-lg-6 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 300px;"&gt;&lt;img src="/Geometric-2.png" name="Geometric-2.png" alt="" style="max-width: 100%; width: 132%; height: 336px; margin-left: auto; margin-right: auto;"&gt;&lt;/div&gt;
+        &lt;div class="col-lg-6 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 300px;"&gt;
+            &lt;h2&gt;Product or service one&lt;/h2&gt;
+            &lt;p&gt;This section could provide testimonials, links to training or documentation, or introduce other actions your audience may want to take.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row sectionBlockLayout" data-component-theme="portalThemeColor2" style="display: flex; flex-wrap: wrap; min-height: 28px;"&gt;&lt;/div&gt;
+&lt;div class="row sectionBlockLayout" data-component-theme="portalThemeColor6" style="display: flex; flex-wrap: wrap; min-height: 52px;"&gt;&lt;/div&gt;Subpage 1</searchcontent>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

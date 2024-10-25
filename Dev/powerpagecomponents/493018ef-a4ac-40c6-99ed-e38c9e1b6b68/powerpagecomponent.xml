@@ -1,0 +1,14 @@
+<powerpagecomponent powerpagecomponentid="493018ef-a4ac-40c6-99ed-e38c9e1b6b68">
+  <content>{"display_name":"Home/Title","type":756150000,"value":"Welcome to your website!"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Home/Title</name>
+  <powerpagecomponenttype>7</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>130c125c-e9f8-480c-859c-a380ac6fc999</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>3cadf587-0ea8-47a3-83d2-cca838bcd368</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

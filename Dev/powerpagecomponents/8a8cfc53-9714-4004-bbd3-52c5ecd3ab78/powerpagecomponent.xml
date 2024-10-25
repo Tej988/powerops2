@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="8a8cfc53-9714-4004-bbd3-52c5ecd3ab78">
+  <content>{"entityname":"adx_webpage","isdefault":false,"rewriteurl":"~/Pages/Search.aspx","type":756150000,"usewebsiteheaderandfooter":true,"webtemplateid":"2745f1cb-ebec-4934-bcd8-8be6bd329d8c"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Search</name>
+  <powerpagecomponenttype>6</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>130c125c-e9f8-480c-859c-a380ac6fc999</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>
