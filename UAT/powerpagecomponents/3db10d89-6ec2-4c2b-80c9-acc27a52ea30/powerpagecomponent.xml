@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="3db10d89-6ec2-4c2b-80c9-acc27a52ea30">
+  <content>{"source":"{% if child.children.size &gt; 0 %}\r\n  {% assign leaf_page = false %}\r\n{% else %}\r\n  {% assign leaf_page = true %}\r\n{% endif %}\r\n&lt;li {% if leaf_page %}class=\"node-end\"{% endif %}&gt;\r\n  &lt;a href=\"{{ child.url | h }}\" title=\"{{ child.title | h }}\"&gt;\r\n    {{ child.title | h }}\r\n  &lt;/a&gt;\r\n  {% unless leaf_page %}\r\n    {% assign children = child.children %}\r\n    &lt;ul&gt;\r\n      {% for child in children %}\r\n        {% include 'Sitemap Item' %}\r\n      {% endfor %}\r\n    &lt;/ul&gt;\r\n  {% endunless %}\r\n&lt;/li&gt;"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Sitemap Item</name>
+  <powerpagecomponenttype>8</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>7bc85069-4a55-4be9-be3c-12fcdec3f919</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>
