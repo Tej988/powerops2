@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="9bb0a4d4-2891-ef11-8a69-000d3af20c3e">
+  <content>{"value":"false"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Authentication/OpenIdConnect/AzureAD/RebrandDisclaimerEnabled</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>7bc85069-4a55-4be9-be3c-12fcdec3f919</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

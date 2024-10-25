@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="68a588c4-0ede-431c-9706-b5966c9fba91">
+  <content>{"entityname":"adx_webpage","isdefault":false,"rewriteurl":"~/Pages/Profile.aspx","type":756150000,"usewebsiteheaderandfooter":true}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Profile</name>
+  <powerpagecomponenttype>6</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>7bc85069-4a55-4be9-be3c-12fcdec3f919</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>
